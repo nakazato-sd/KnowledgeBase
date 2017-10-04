@@ -1,0 +1,9 @@
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.exe.config
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.exe
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.pdb
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.csprojResolveAssemblyReference.cache
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.AccidentView.resources
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.Properties.Resources.resources
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.csproj.GenerateResource.Cache
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.exe
+c:\users\administrator.t-16-0301-108\documents\visual studio 2015\Projects\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.pdb
